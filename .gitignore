@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# parcel-project-template-main
+parcel-project-template-main/
