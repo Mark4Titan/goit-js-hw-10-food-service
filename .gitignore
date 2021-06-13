@@ -105,3 +105,7 @@ dist
 
 # parcel-project-template-main
 parcel-project-template-main/
+
+#json
+package-lock.json
+package.json
