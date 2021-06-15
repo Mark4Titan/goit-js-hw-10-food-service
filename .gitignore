@@ -1,3 +1,8 @@
+#Junk
+.DS_Store
+.vscode/
+.idea/
+
 # Logs
 logs
 *.log
@@ -102,10 +107,3 @@ dist
 
 # TernJS port file
 .tern-port
-
-# parcel-project-template-main
-parcel-project-template-main/
-
-#json
-package-lock.json
-package.json
